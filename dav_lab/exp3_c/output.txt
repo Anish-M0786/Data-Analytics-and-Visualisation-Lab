@@ -1,0 +1,31 @@
+OUTPUT:
+========
+
+UCI Diabetes Dataset - Multiple Regression R² Score: -0.0028
+Intercept: 28.5341
+ Feature  Coefficient
+ Glucose       0.0123
+BloodPressure  0.0215
+         Age  -0.0089
+
+Pima Indians Diabetes Dataset - Multiple Regression R² Score: -0.0904
+Intercept: 31.2784
+ Feature  Coefficient
+ Glucose       0.0098
+BloodPressure  0.0187
+         Age  -0.0074
+
+RESULT:
+=======
+Multiple Regression analysis predicts BMI using Glucose, Blood Pressure, and Age.
+Differences in R² scores indicate variations in data distribution and model performance
+across datasets.
+
+INTERPRETATION:
+===============
+- The negative R² scores indicate that the selected features (Glucose, BloodPressure, Age)
+  do not effectively predict BMI in these datasets.
+- This suggests that BMI may depend on other features not included in this model, such as
+  SkinThickness or Insulin levels.
+- Including more relevant features or applying feature engineering could improve model
+  performance significantly.

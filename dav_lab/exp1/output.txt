@@ -1,0 +1,17 @@
+OUTPUT:
+========
+
+NumPy Version: 1.23.5
+SciPy Version: 1.9.3
+Pandas Version: 1.5.2
+Matplotlib Version: 3.6.2
+Seaborn Version: 0.12.1
+Plotly Version: 5.11.0
+Bokeh Version: 3.0.3
+Statsmodels Version: 0.14.0
+JupyterLab Version: 3.5.0
+
+RESULT:
+=======
+Successfully installed and verified NumPy, SciPy, Jupyter, Statsmodels, Pandas, Matplotlib, Seaborn, Plotly, and Bokeh.
+Libraries are ready for scientific computing, data analysis, and visualization.
